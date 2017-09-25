@@ -16,9 +16,9 @@ Todos los campos deben ser guardados en un nuevo archivo.
 
 #### Captura del problema 2
 
-![problema2](https://raw.githubusercontent.com/zetatino/semestral2015/master/captura1.png)
+![problema2](https://raw.githubusercontent.com/faustinoaq/semestral-2015/master/captura1.png)
 
-Ver [codigo fuente del Problema 2](https://github.com/zetatino/semestral2015/blob/master/problema2.c)
+Ver [codigo fuente del Problema 2](https://github.com/faustinoaq/semestral-2015/blob/master/problema2.c)
 
 ### Problema 3
 
@@ -26,6 +26,6 @@ Utilizando el archivo generado del problema anterior realice un programa modular
 
 #### Captura del problema 3
 
-![problema2](https://raw.githubusercontent.com/zetatino/semestral2015/master/captura2.png)
+![problema2](https://raw.githubusercontent.com/faustinoaq/semestral-2015/master/captura2.png)
 
-Ver [codigo fuente del Problema 3](https://github.com/zetatino/semestral2015/blob/master/problema3.c)
+Ver [codigo fuente del Problema 3](https://github.com/faustinoaq/semestral-2015/blob/master/problema3.c)
